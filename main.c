@@ -2,6 +2,7 @@
 
 
 int main(){
+    // Define constant on array
     int array[2] = {1,2};
     int x = 2;
     int p = 0;
